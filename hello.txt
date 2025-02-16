@@ -1,5 +1,6 @@
-hello,git~合并冲突
-hello,git~合并冲突
+hello,git~
+hello,git~
 hello.git~1
 hello.git~2
 hot-fix
+分支合并冲突
