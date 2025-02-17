@@ -5,3 +5,4 @@ hello.git~2
 hot-fix
 合并冲突
 分支合并冲突
+验证
